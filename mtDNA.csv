@@ -1,0 +1,1210 @@
+﻿Posição do Nucletídeo,Gene,Aminoácido,Efeito,Frequencia (%) de casos tumor,Frequencia (%) de casos controle,Haplogrupo,Referencias,Ano,População
+28,,,delA* ,4, ,,Li et al.,2016," Guangzhou, China"
+46,,,insA* , ,5 ,,Li et al.,2016," Guangzhou, China"
+64,,,delC* ,1 , ,,Li et al.,2016," Guangzhou, China"
+66,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+94,D-LOOP,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+139,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+150,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+150,D-LOOP,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+152,D-LOOP,,,,,,TSENG et al.,2011,"Taipei, Taiwan"
+170,D-LOOP,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+182,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+182,D-LOOP,,insC,,,,SULTUNA et al.,2012,Bangladesh
+183,D-LOOP,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+188,D-LOOP,,,,,,TSENG et al.,2011,"Taipei, Taiwan"
+203,D-LOOP,,,,,,TSENG et al.,2011,"Taipei, Taiwan"
+215,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+294,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+303,D-LOOP,,,,,,TSENG et al.,2011,"Taipei, Taiwan"
+315,D-LOOP,,insC-CC(n),,,,SULTUNA et al.,2012,Bangladesh
+316,D-LOOP,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+319,D-LOOP,,,,,,SULTUNA et al.,2012,Bangladesh
+338,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+489,D-LOOP,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+499,D-LOOP,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+514,D-LOOP,,,,,,TSENG et al.,2011,"Taipei, Taiwan"
+530,D-LOOP,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+590,D-LOOP,,insA,,,,SULTUNA et al.,2012,Bangladesh
+600,D-LOOP,,insT,,,,SULTUNA et al.,2012,Bangladesh
+2463,,,delA* ,28 ,5 ,,Li et al.,2016," Guangzhou, China"
+2464,,,delG* ,1 , ,,Li et al.,2016," Guangzhou, China"
+3109,,,delT* ,73 ,0.86 ,,Li et al.,2016," Guangzhou, China"
+3174,,,insG* , ,5 ,,Li et al.,2016," Guangzhou, China"
+3346,,,delC* ,8 , ,,Li et al.,2016," Guangzhou, China"
+3393,,,delC* ,22 ,27 ,,Li et al.,2016," Guangzhou, China"
+3721,,,delA* ,48 ,73 ,,Li et al.,2016," Guangzhou, China"
+4253,,,delC* ,1 , ,,Li et al.,2016," Guangzhou, China"
+4254,,,delT* ,7 , ,,Li et al.,2016," Guangzhou, China"
+4611,,,delA* ,31 ,14 ,,Li et al.,2016," Guangzhou, China"
+4812,ND2,Val - Ile,,,,,DE VITTO et al.,2013,USA
+4830,ND2,Gly - Ser,,,,,DE VITTO et al.,2013,USA
+5169,ND2,Trp - Arg,,,,,DE VITTO et al.,2013,USA
+5258,,,delA* ,13 , ,,Li et al.,2016," Guangzhou, China"
+5901,,,insA* ,1 , ,,Li et al.,2016," Guangzhou, China"
+6008,,,delC* ,4 , ,,Li et al.,2016," Guangzhou, China"
+6009,,,delC* ,4 , ,,Li et al.,2016," Guangzhou, China"
+6298,,,delT* ,17 , ,,Li et al.,2016," Guangzhou, China"
+6307,,,delA* ,1 ,5 ,,Li et al.,2016," Guangzhou, China"
+6425,,,delT* ,11 , ,,Li et al.,2016," Guangzhou, China"
+6698,,,delA* ,37 ,36 ,,Li et al.,2016," Guangzhou, China"
+6699,,,delG* ,1 , ,,Li et al.,2016," Guangzhou, China"
+6960,,,delC* ,30 ,0.68 ,,Li et al.,2016," Guangzhou, China"
+7079,,,delC* ,8 ,0.64 ,,Li et al.,2016," Guangzhou, China"
+7081,,,delT* ,2 ,23 ,,Li et al.,2016," Guangzhou, China"
+7347,,,delG* ,2 , ,,Li et al.,2016," Guangzhou, China"
+8033,,,delA* ,8 ,73 ,,Li et al.,2016," Guangzhou, China"
+8255,,,delG* ,1 ,9 ,,Li et al.,2016," Guangzhou, China"
+9414,,,delC* , ,55 ,,Li et al.,2016," Guangzhou, China"
+9444,,,delC* ,5 , ,,Li et al.,2016," Guangzhou, China"
+9484,,,delT* ,13 , ,,Li et al.,2016," Guangzhou, China"
+9485,,,delC* ,1 , ,,Li et al.,2016," Guangzhou, China"
+9549,,,delC* ,2 , ,,Li et al.,2016," Guangzhou, China"
+9908,,,delC* ,6 ,0.68 ,,Li et al.,2016," Guangzhou, China"
+10167,,,delT* ,1 , ,,Li et al.,2016," Guangzhou, China"
+10197,ND3,Ala - Thr,,,,,DE VITTO et al.,2013,USA
+10265,ND3,Iso - Iso,,,,,DE VITTO et al.,2013,USA
+10353,ND3,Ala - Thr,,,,,DE VITTO et al.,2013,USA
+10389,ND3,Leu1 -  Leu2,,,,,DE VITTO et al.,2013,USA
+10399,,,delC* ,1 , ,,Li et al.,2016," Guangzhou, China"
+10427,TR,,,,,,DE VITTO et al.,2013,USA
+10477,,,delT* , ,9 ,,Li et al.,2016," Guangzhou, China"
+10500,ND4L,Ala - Thr,,,,,DE VITTO et al.,2013,USA
+10506,ND4L,Thr - Ala,,,,,DE VITTO et al.,2013,USA
+10552,ND4L,Gly - Glu,,,,,DE VITTO et al.,2013,USA
+11038,,,delA* ,4 , ,,Li et al.,2016," Guangzhou, China"
+11151,,,delC* , ,5 ,,Li et al.,2016," Guangzhou, China"
+11479,,,delC* , ,9 ,,Li et al.,2016," Guangzhou, China"
+11517,,,delT* ,11 ,5 ,,Li et al.,2016," Guangzhou, China"
+11525,,,delC* ,6 , ,,Li et al.,2016," Guangzhou, China"
+11541,,,delT* ,12 , ,,Li et al.,2016," Guangzhou, China"
+11637,,,delA* ,8 , ,,Li et al.,2016," Guangzhou, China"
+12274,,,delA* ,1 , ,,Li et al.,2016," Guangzhou, China"
+12406,ND5,I - V,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+12425,,,delA* ,6 , ,,Li et al.,2016," Guangzhou, China"
+12477,ND5,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+12631,,,delT* ,20 ,73 ,,Li et al.,2016," Guangzhou, China"
+12705,ND5,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+12818,,,delG* ,1 , ,,Li et al.,2016," Guangzhou, China"
+12972,,,delA* ,14 ,5 ,,Li et al.,2016," Guangzhou, China"
+13030,,,delT* ,5 , ,,Li et al.,2016," Guangzhou, China"
+13104,ND5,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+13135,ND5,Ala - Thr,,,,,DE VITTO et al.,2013,USA
+13237,,,delA* ,18 , ,,Li et al.,2016," Guangzhou, China"
+13238,,,delT* ,1 , ,,Li et al.,2016," Guangzhou, China"
+13369,,,delT* ,1 , ,,Li et al.,2016," Guangzhou, China"
+13629,ND5,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+13809,ND5,Leu - Leu,,,,,DE VITTO et al.,2013,USA
+13920,ND5,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+13926,ND5,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+13928,ND5,S - T,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+13960,,,delC* ,2 , ,,Li et al.,2016," Guangzhou, China"
+14020,ND5,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+14050,ND5,P - S,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+14050,ND5,S - P,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+14410,ND6,Val - Val,,,,,DE VITTO et al.,2013,USA
+16092,D-LOOP,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+16092,D-LOOP,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+16093,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16093,D-LOOP,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+16126,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16129,D-LOOP,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+16136,D-LOOP,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+16168,D-LOOP,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+16189,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16192,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+16192,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16194,,,insC* ,1 , ,,Li et al.,2016," Guangzhou, China"
+16203,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16223,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16224,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16249,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16249,D-LOOP,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+16260,D-LOOP,,insG,,,,SULTUNA et al.,2012,Bangladesh
+16261,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+16268,D-LOOP,,insGG,,,,SULTUNA et al.,2012,Bangladesh
+16270,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16278,D-LOOP,-,Homoplasmatico,,,,SHEN et al.,2011,"Wenzhou, China"
+16290,D-LOOP,,insT,,,,SULTUNA et al.,2012,Bangladesh
+16290,D-LOOP,,,,,,TSENG et al.,2011,"Taipei, Taiwan"
+16291,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+16291,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16293,D-LOOP,,delA,,,,SULTUNA et al.,2012,Bangladesh
+16298,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16304,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16304,D-LOOP,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+16304,D-LOOP,,,,,,TSENG et al.,2011,"Taipei, Taiwan"
+16311,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16319,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16357,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16362,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16362,D-LOOP,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+16382,,,delC* ,2 , ,,Li et al.,2016," Guangzhou, China"
+16390,D-LOOP,,,,,,MAGGRAH et al.,2013,"Ontario, Canada"
+16390,D-LOOP,,,,,,TSENG et al.,2011,"Taipei, Taiwan"
+16391,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+16391,D-LOOP,-,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+16520,,,delC* ,12 ,32 ,,Li et al.,2016," Guangzhou, China"
+16529,,,delT ,7 ,5 ,,Li et al.,2016," Guangzhou, China"
+ ,ND5,-,,-,-,,LI et al.,2014,"Guangzhou, China"
+10398G,CO1,,,,,,BAHARUDIN et al.,2012,Malásia
+1132C/T,TV,-,-,,,J1c,FENDT et al.,2011,"Innsbruck, Austria"
+12 ins C,D-LOOP,-,Inserção,1,,,TIPIRISETTI et al.,2013,South Indian
+12131C,ND4,Ser - Pro,-,,,H2a,FENDT et al.,2011,"Innsbruck, Austria"
+12418insA,ND5,-,Frame shift,,,,TSENG et al.,2011,"Taipei, Taiwan"
+128* ,,,delC* ,2 , ,,Li et al.,2016," Guangzhou, China"
+12803A/G,ND5,Ser - Asp,,,,HV,FENDT et al.,2011,"Innsbruck, Austria"
+12875C,ND5,Ile - Thr,,,,J1c2c,FENDT et al.,2011,"Innsbruck, Austria"
+146 TT/C,D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+152T,,,,,,J1c,FENDT et al.,2011,"Innsbruck, Austria"
+15341T/C,CYTB,Phe - Leu,-,,,H1,FENDT et al.,2011,"Innsbruck, Austria"
+1578A,RNR1,-,-,,,J1c,FENDT et al.,2011,"Innsbruck, Austria"
+16106G/A,,,,,,M35b,FENDT et al.,2011,"Innsbruck, Austria"
+16192 CC/T,D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+16261 CC/T,D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+16291 CC/T,D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+16304T/C,,,,,,M35b,FENDT et al.,2011,"Innsbruck, Austria"
+16309 AA/G,D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+1632C/T,TV,-,-,,,M35b2,FENDT et al.,2011,"Innsbruck, Austria"
+16390A/G,,,,,,H3,FENDT et al.,2011,"Innsbruck, Austria"
+16391 GG/A,D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+16391G,,,,,,H11a,FENDT et al.,2011,"Innsbruck, Austria"
+16520 ins G,D-LOOP,-,Inserção,1,,,TIPIRISETTI et al.,2013,South Indian
+185* ,,,delG* ,2 ,5 ,,Li et al.,2016," Guangzhou, China"
+2145A/G,RNR2,-,-,,,K1a1b2,FENDT et al.,2011,"Innsbruck, Austria"
+215 AA/G,D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+215A,,,,,,HV,FENDT et al.,2011,"Innsbruck, Austria"
+215AA/C,D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+250* ,,,delT* ,1 ,9 ,,Li et al.,2016," Guangzhou, China"
+294 TT/C,D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+2998C/T,RNR2,-,-,,,K1a1b1,FENDT et al.,2011,"Innsbruck, Austria"
+303:315,D-LOOP,,,,,,DE VITTO et al.,2013,USA
+303-09,D-LOOP,,insCC,,,,CAI et al.,2011,China
+303-315 C (7-8) TC (6),D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+303-315 C (7-8) TC (6),D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+303-315C (8-9) TC (6),D-LOOP,,,,,,SANTOS-JR et al.,2012,"Ontario, Canada"
+309* ,,,delC* ,2 , ,,Li et al.,2016," Guangzhou, China"
+309insC,D-LOOP,,Heteroplasmico,,,,SHEN et al.,2011,"Wenzhou, China"
+311-15,D-LOOP,,insC,,,,CAI et al.,2011,China
+316 ,,,insC ,6 , ,,Li et al.,2016," Guangzhou, China"
+317 ,,,insG ,11 , ,,Li et al.,2016," Guangzhou, China"
+338 CC/T,D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+3409insA,ND1,-,Frame shift,,,,TSENG et al.,2011,"Taipei, Taiwan"
+4561insT,ND2,,Frame shift,,,,TSENG et al.,2011,"Taipei, Taiwan"
+4605insA,ND1,-,Frame shift,,,,TSENG et al.,2011,"Taipei, Taiwan"
+5102A,ND2,-,-,,,M35b2,FENDT et al.,2011,"Innsbruck, Austria"
+524* ,,,delC* ,13 , ,,Li et al.,2016," Guangzhou, China"
+526* ,,,delG* ,12 , ,,Li et al.,2016," Guangzhou, China"
+5390A,ND2,-,-,,,M35b2,FENDT et al.,2011,"Innsbruck, Austria"
+5703G/A,TN,-,-,,,R0a1a,FENDT et al.,2011,"Innsbruck, Austria"
+574* ,,,insC* ,2 ,5 ,,Li et al.,2016," Guangzhou, China"
+66 GG/T,D-LOOP,,,,,,SANTOS-JR et al.,2012,"Rio de Janeiro, Brazil"
+66* ,,,insT* ,1 , ,,Li et al.,2016," Guangzhou, China"
+754* ,,,delA* , ,5 ,,Li et al.,2016," Guangzhou, China"
+8283-8292 ,,,delCCCTCTAAG ,2 , ,,Li et al.,2016," Guangzhou, China"
+9966A,CO3,Vel - Ile,-,,,H5,FENDT et al.,2011,"Innsbruck, Austria"
+A10005G,,,,1 , ,,Li et al.,2016," Guangzhou, China"
+A10005G,TG, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A10053G,TG, ,Heteroplasmico,"0,615",1045,,Omasanggar et al.,2020,Malásia
+A10097C,ND3,L13L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A10127G,ND3,W23W,Silent,1,-,,TIPIRISETTI et al.,2013,South Indian
+A1027G,,,, ,5 ,,Li et al.,2016," Guangzhou, China"
+A10316G,ND3,Thr - Ala,,,,,SULTUNA et al.,2012,Bangladesh
+A10397G,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China"
+A10398,ND3,T114A,Homoplasmico,20,-,"J,KL,B,E,C",M. M. JAHANI ET AL,2019,Irã
+A10398G,,,,23 ,36 ,,Li et al.,2016," Guangzhou, China"
+A10398G,ND3,T114A,Homoplasmatico,20,2,"J,K, L, B, E, C, I, D, M",M. M. JAHANI ET AL,2019,Irã
+A10398G,ND3,T114A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A10403G,,,, ,5 ,,Li et al.,2016," Guangzhou, China"
+A10577G,ND4L,M36M,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A10610G,ND4L,M47M,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A10634G,ND4L,L55L,Silent,2,,,TIPIRISETTI et al.,2013,South Indian
+A10754G,ND4L,L95L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A10876G,ND4,L39L,,15.4,1.1,,McGeehan et al. ,2017,Reino Unido
+A11239G,,,, ,5 ,,Li et al.,2016," Guangzhou, China"
+A11251G,ND4,L164L,,15.4,9.1,,McGeehan et al. ,2017,Reino Unido
+A11467G,ND4,L236L,,30.8,13.2,,McGeehan et al. ,2017,Reino Unido
+A11467G,ND4,L236L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A11524C,,,,5 , ,,Li et al.,2016," Guangzhou, China"
+A11551G,ND4,L264L,Silent,1,,,TIPIRISETTI et al.,2013,South Indian
+A11757T,ND4,N333I,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A11812G,ND4,L351L,,15.4,3.2,,McGeehan et al. ,2017,Reino Unido
+A11908G,ND4,V383V,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A12026G,,,, ,5 ,,Li et al.,2016," Guangzhou, China"
+A12030G,,,,2 , ,,Li et al.,2016," Guangzhou, China"
+A12116T,ND4,I453F,Homoplasmatico,1,-,-,M. M. JAHANI ET AL,2019,Irã
+A12116T,ND4,I453F,Homoplasmico,1,-,-,M. M. JAHANI ET AL,2019,Irã
+A1222G,,,, ,5 ,,Li et al.,2016," Guangzhou, China"
+A12280G,,,,1 , ,,Li et al.,2016," Guangzhou, China"
+A12308G,TL2,-,,30.8,13.1,,McGeehan et al. ,2017,Reino Unido
+A12308G,TL2, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A12358G,ND5,T8A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A12397G,ND5,T21A,,7.7,0.5,,McGeehan et al. ,2017,Reino Unido
+A12612G,,,,1 , ,,Li et al.,2016," Guangzhou, China"
+A12634G,,,,1 , ,,Li et al.,2016," Guangzhou, China"
+A12850G,,,,2 , ,,Li et al.,2016," Guangzhou, China"
+A12900G,,,,1 , ,,Li et al.,2016," Guangzhou, China"
+A12950G,,,,4 , ,,Li et al.,2016," Guangzhou, China"
+A13005G,,,, ,5 ,,Li et al.,2016," Guangzhou, China"
+A13104G,ND5,G256G,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A13105G ,ND5,I257V,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A13170G,ND5,L278L,Silent,1,,,TIPIRISETTI et al.,2013,South Indian
+A13237T,,,,7 , ,,Li et al.,2016," Guangzhou, China"
+A13269G,,,,1 , ,,Li et al.,2016," Guangzhou, China"
+A13326G,,,,1 , ,,Li et al.,2016," Guangzhou, China"
+A13350G,,,, ,5 ,,Li et al.,2016," Guangzhou, China"
+A13419T,ND5,G361G,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido
+A13482G,ND5,G382G,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A13535G,,,, ,5 ,,Li et al.,2016," Guangzhou, China"
+A13539G,ND5,M401M,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A13563G,,,,1 , ,,Li et al.,2016," Guangzhou, China"
+A13827G,ND5,G497G,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A1382C,,,,4 , ,,Li et al.,2016," Guangzhou, China"
+A13834G,ND5,T500A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A13878G,ND5,Lys - Lys,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan"
+A13966G,ND5,T544A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A13980G,ND5,Leu - Leu,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan"
+A14002G,,,,1 , ,,Li et al.,2016," Guangzhou, China"
+A14070G,ND5,S578S,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia
+A14145G,ND5,T603T,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido
+A14233G,ND6,D147D,,15.4,3.6,,McGeehan et al. ,2017,Reino Unido
+A14339C,ND6,V112G,Heteroplasmico,"0,87","1,27",,Omasanggar et al.,2020,Malásia
+A1438G,,,,70 ,0.82 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,-
+A1438G,RNR1, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A14582G,ND6,V31A,,7.7,0.6,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A14587G,ND6,G29G,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A14793G,CYTB,H16R,,15.4,2.2,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A15010G,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A15080G,CYTB,T112A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A15218G,,,,1 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A15218G,CYTB,T158A,,7.7,1.9,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A15235G,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A15235G,CYTB,W163W,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A15236G,CYTB,I164V,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A15296G,,,,2 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A1530G,RNR1, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A15326G,,,,20 ,45 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A15326G,CYTB,T194A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A15328G,CYTB,T194T,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A153G,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+A153G,D-LOOP,-,,7.7,3.9,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A15463G,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A15487T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A15562G,CYTB,W272W,Heteroplasmico,99705,"98,96",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A15607G,CYTB,K287K,,15.4,5.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A15628G,CYTB,L294L,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A15724G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A15758G,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A15907G,TT,-,,15.4,0.6,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A15924G,,,,1 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A15954C,Non-coding 10, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A16051G,D-LOOP,-,,15.4,2.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A16162G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A16170G,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A16171G,D-LOOP, ,Heteroplasmico,1736666667,1315,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A16180G,D-LOOP, ,Heteroplasmico,"98,23","97,69",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A16181AC,D-LOOP,-,,15.4,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A16182C,D-LOOP,-,,15.4,7.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A16182C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A16183AC,D-LOOP,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A16183C,D-LOOP,-,,23.1,13.6,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A16183C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A16183C,D-LOOP, ,Heteroplasmico,"87,37",81395,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A16227G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A16258C,D-LOOP,-,,7.7,0.3,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A16272G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A16316G,D-LOOP,--,,7.7,0.9,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A16335G,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A16399G,D-LOOP,-,,7.7,2.8,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A16497G,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A1736G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A1811G,RNR2,-,,15.4,8.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A183G ,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A189G,D-LOOP, ,Heteroplasmico,"0,325","1,36",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A189G ,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A1926G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A1943G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A1978G,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A200G,D-LOOP,-,,7.7,3.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A210G,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A210G,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A214G,D-LOOP, ,Heteroplasmico,"0,03","1,08",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A2281G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A2308G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A235G,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+A235G,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A2363G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A237G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A237G,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A238G,D-LOOP,-,,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A2399G,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A2399G,RNR2, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A249del,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+A249G,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A249T,,,,1 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A2581G,RNR2,-,,7.7,0.3,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A263G,,,,29 ,18 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A263G,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A2706G,,,,8 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A2706G,RNR2,-,,61.5,79.2,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A2706G,RNR2, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A2833G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A290del,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+A291del,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+A301C,D-LOOP,-,,61.5,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A302AC,D-LOOP,-,,92.3,29.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A302ACC,D-LOOP,-,,7.7,8.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A3105T,RNR2,-,,69.2,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A3397G,ND1,M31V,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A3444T,ND1,L46L,Silent,1,-,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A3537G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A3537G,ND1,L77L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A3579G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A3606G,ND1,L100L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A3720G,ND1,Q138Q,,15.4,0.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A373G,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A374G,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A3796G,ND1,T164A,,7.7,0.5,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A37G,D-LOOP,-,,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A4021G,ND1,T239A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A4024G,ND1,T240A,,7.7,0.6,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A4042G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A4053T,ND1,A249A,Silent,1,-,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A4129G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A4164G,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A4191C,ND1,P295P,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A4203T,ND1,A299A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A4435G,TM,-,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A4611T,,,,13 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A4715G,,,,4 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A4769G,,,,55 ,45 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A4769G,ND2,M100M,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A4811G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A4811G,ND2,W114W,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A4824G,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A4833G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A4833G,ND2,T122A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A4901G,ND2,Q144Q,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A4917G,ND2,N150D,,15.4,4.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A492G,D-LOOP,-,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A4943G,ND2,S158S,Silent,1,-,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A508G,D-LOOP,-,,15.4,0.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A512C,D-LOOP,-,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A5153G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A523C,,,,13 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A5301G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A5351G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A5390G,ND2,M307M,,15.4,0.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A540C ,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A5466G,ND2,T333A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A5558G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A5581G,Non-coding 3, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A5582G,NC3, ,Heteroplasmico,83455,"67,95",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A567AC,D-LOOP,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A567C,D-LOOP,-,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A5752G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A5812G,TC, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A5823G,TC, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A5836G,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A5894ACC,NC,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A5894C,NC,-,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A5894G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A5900C,,,,1 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A5951G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A5978G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A6233G,CO1,L110L,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A6302G,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A6527G,CO1,M208M,Heteroplasmico,"0,5",1845,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A6575G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A663G,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A6647G,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A6698G,,,,24 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A6752G,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A6767G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A6788G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A6895G,CO1,N331S,Missense,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A6932G,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A7052G,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A7271G,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A7346G,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A7379G,CO1,-,,,,H,FENDT et al.,2011,"Innsbruck, Austria",,,,,,,,,,
+A73G,,,,39 ,39 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A73G,D-LOOP,-,,46.2,77.4,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A73G,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A750G,,,,70 ,0.82 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A750G,RNR1, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A751T,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A752T,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A7828G,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A7828G,CO2,L81L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A7828G,CO2,L81L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A7843G,CO2,M86M,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A7934G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A7960G,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A8041G,CO2,M152M,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A8074G,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A8149G,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A8266C,CO2,L227L,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A8266G,CO2,L227L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A8268T,CO2,STOP>L,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A827G,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A827G,RNR1, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A8343G,TK, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A8701G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A8701G,ATP6,T59A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A8860G,,,,19 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A8860G,ATP6,T112A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+A9177G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A9180G,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A9377G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A93G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A93G,D-LOOP,-,,7.7,3.2,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A9473G,CO3,S89S,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A95T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+A9602G,CO3,L132L,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+A9664G,CO3,E153G,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A9667G,CO3,N154S,,7.7,0.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+A9901C,CO3,His - Pro,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+AC3105A,RNR2,,,100,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C1009T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C10165T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C10268T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C10314G,ND3,L86V,Homoplasmatico,1,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+C10314G,ND3,L86V,Homoplasmico,1,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+C10400T,,,,19 ,36 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C10400T,ND3,T114T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C10476T,,,, ,23 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C1048T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C1048T,RNR1, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C10527T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C10581T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C10592T,ND4L,F41F,Silent,1,-,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C10619T,ND4L,N50N,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C11047A,ND4,Leu - Arg,,,,,SULTUNA et al.,2012,Bangladesh,,,,,,,,,,
+C11089T,ND4,F110F,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C11140T,ND4,I127I,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C11186T,ND4,L143L,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C11203T,ND4,Y148Y,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C1120T,RNR1, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C11288T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C11389T,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C11422T,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C11464A,ND4,L235L,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C114G,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+C11516T,,,,12 ,18 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C11539T,,,,13 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C11636A,,,,8 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C11665T,,,,1 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C11665T,ND4,L302L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C11810T,ND4,L351L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C12088A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C12092A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C12123T,ND4,T455I,Missense,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C12191T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C12216T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C1236T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C12393T,ND5,I19I,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C12401T,ND5,T22I,Missense,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C12557T,ND5,T74I,,7.7,0.3,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C12621T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C12705T,,,,28 ,0.64 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C12705T ,ND5,I123I,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C12817G,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C12882T,,,,5 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C12882T,ND5,F182F,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C12971A,,,,14 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C12981T,ND5,G215G,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C13029T,,,,5 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C1310T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C13227T,ND5,D297D,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C13287T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C1342T,RNR1, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C13468T,ND5,L378L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C13653T,ND5,T439T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C13653T,ND5,T439T,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C13742T,ND5,T469I,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C14055T,ND5,T573T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C14365T,ND6,V103V,,7.7,0.5,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C14446T,ND6,E76E,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C14460G,ND5,A72P,Homoplasmatico,1,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+C14460G,ND5,A72P,Homoplasmico,1,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+C14643A,ND6,G11C,Homoplasmatico,1,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+C14643A,ND6,G11C,Homoplasmico,1,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+C14668T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C14668T,ND6,M2M,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C14766T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C14766T,CYTB,T7I,,46.2,77.3,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C14766T,CYTB,T7I,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C14827T,CYTB,I27I,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C14883T,CYTB,T46I,Missense,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C14920T,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C14989T,CYTB,Y81Y,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C15022T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C15040T,,,,1 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C150T,,,,7 ,23 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C150T,D-LOOP,-,,15.4,12.2,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C150T,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C150T,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C151T ,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C15263T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C15337T,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C15403T,CYTB,T219T,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C15452A,CYTB,L236I,,15.4,9.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C15481T,CYTB,F245F,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C15502T,CYTB,D252D,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C15529T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C15535T,CYTB,N263N,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C15574T,CYTB,F276F,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C15580T,CYTB,Y278Y,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C15651T,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C15661T,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C15661T,CYTB,P305P,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C15833T,CYTB,L363L,,7.7,0.6,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C16108T,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16111T,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+C16111T,D-LOOP,,,7.7,3.2,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C16168T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16169T,D-LOOP, ,Heteroplasmico,"0,27","4,63",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16184T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16188T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16192T,D-LOOP,-,,15.4,4.4,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C16192T,D-LOOP, ,Heteroplasmico,74985,2505,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16209T,,,,5 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16218T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16218T,D-LOOP, ,Heteroplasmico,90335,"87,21",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16223T,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+C16223T,,,,5 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16223T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16234T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16234T,D-LOOP,-,,7.7,3.5,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C16245T,D-LOOP,,,,,,CAI et al.,2011,China,,,,,,,,,,
+C16256T,D-LOOP,-,,30.8,3.6,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C16257A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16257A,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16257T,D-LOOP,,,,,,CAI et al.,2011,China,,,,,,,,,,
+C16261T,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16261T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16266A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16266A,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16270T,D-LOOP,-,,15.4,5.5,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C16278T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16278T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16290T,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+C16291T,D-LOOP,,,7.7,2.8,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C16291T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16291T,D-LOOP, ,Heteroplasmico,56935,"72,96",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16292T,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16292T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16294T,D-LOOP,-,,15.4,10.2,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C16294T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16295T,D-LOOP,,,,,,CAI et al.,2011,China,,,,,,,,,,
+C16295T,,,,1 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16295T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16296T,D-LOOP,-,,15.4,2.2,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C16320T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16320T,D-LOOP,-,,7.7,3.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C16327T,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+C16344T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16394T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16465T,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C16527T,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C16528T,,,,7 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C194T ,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C198T,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C2218T,RNR2, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C27A,,,,5, ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C2835T,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C285T,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C298T,D-LOOP,,,,,,CAI et al.,2011,China,,,,,,,,,,
+C299A,D-LOOP,-,,23.1,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C308T,D-LOOP,-,,15.4,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C309CC,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+C3206T,RNR2, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C340T,D-LOOP,-,,7.7,0.4,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C3687T,,,,1 ,0 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C3718A,,,,47 ,73 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C3792T,ND1,L162L,Silent,1,-,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C3945T,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C3970T,,,,16 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C3970T,ND1,L222L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C3970T,ND1,L222L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C3970T,ND1,L222L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C3992T,ND1,T229M,Homoplasmatico,1,-,H,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+C3992T,ND1,T229M,,7.7,0.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C4050T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C4071T,,,,5 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C4071T,ND1,Y255Y,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C4086T,,,,6 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C4086T,ND1,V260V,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C4089T,ND1,T261T,Silent,1,-,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C4140T,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C4170T,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C4224T,ND1,S4224S,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C4253T,,,,7 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C4254T,ND1,P316P,Silent,2,-,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C4501T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C456T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C456T,D-LOOP,-,,7.7,2.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C463T,D-LOOP,-,,2,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C4670T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C4850T,,,,2 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C4850T,ND2,G127G,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C4883T,,,,13 ,14 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C4883T,ND2,P138P,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C494G,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C510G,D-LOOP,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C5178A,,,,11 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C5178A,ND2,L237M,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C5255A,,,,13 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C525G,,,,13 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C5263T,ND2,A265V,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C5320T,ND2,T284I,Missense,1,-,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C5444A,ND2,F325L,Missense,1,-,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C5601T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C566A,D-LOOP,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C566G,D-LOOP,-,,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C6005T,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C6045T,CO1,L48L,,15.4,0.6,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C6122T,CO1,I73I,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C6188T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C6215T,CO1,L104L,Silent,2,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C6250T,CO1,A116V,Missense,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C6290T,CO1,Y129Y,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C6296T,,,,17 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C6347T,CO1,F148F,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C6424T,,,,12 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C6452T,CO1,L183L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C6452T,CO1,L183L,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C6455T,,,,6 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C6455T,CO1,F184F,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C64T,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+C6653T,CO1,G250G,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C6960T,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C6960T,CO1,L353L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C7028T,,,,51 ,73 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C7028T,CO1,A375A,,61.5,80.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C7028T ,CO1,A375A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C7079T,,,,11 ,32 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C709A,,,,13 ,27 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C7196A,,,,1 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C7247T,CO1,T448T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C7280T,CO1,F459F,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C759T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C7774T,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C8032A,,,,6 ,0.68 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C8254G,,,,1 ,14 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C8270CACCCCCTCT,NC,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C8270T,NC,-,,7.7,0.3,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C8281G,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C8282A,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C8414T,ATP8,L17F,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C8575T,ATP6,L17L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C8622A,ATP6,P32P,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C8684T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C8794T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C8907T,ATP6,H127H,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C8964T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C8970T,ATP6,S148S,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C9061T,ATP6,L179L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C9296T,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C9413A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C9469T,CO3,T88I,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+C9490T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C979T,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+C9893T,CO3,S229S,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+C9893T,CO3,S229S,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+C9968T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+CA16179C,D-LOOP,-,,15.4,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+CT16188C,D-LOOP,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+CT309C,D-LOOP,-,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+D310,D-LOOP,-,,,,,ALHOMIDI et al.,2013,India,,,,,,,,,,
+D310,D-LOOP,,,,,,XU et al.,2012,"Toronto, Canadá",,,,,,,,,,
+G10310A,,,,7 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G10310A,ND3,L84L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G10310A,ND3,L84L,Heteroplasmico,"99,23",98795,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G10320A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G10398A,ND3,-,Heteroplasmico,-,-,,FRANCIS et al,2013,South Indian,,,,,,,,,,
+G10398A,ND3,Thr - Ala,,,,,SULTUNA et al.,2012,Bangladesh,,,,,,,,,,
+G10586A,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G10586A,ND4L,S39S,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G10599A,ND4L,Ala - Thr,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+G11150C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G11176A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G11440A,ND4,G227G,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G11478C,,,, ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G11696A,,,,1 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G11719A,,,,45 ,73 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G11719A,ND4,G320G,,53.8,77.6,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G11719A,ND4,G320G,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G11902A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G11914A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G11914A,ND4,T385T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G11963A,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G12007A,ND4,W416W,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G12007A,ND4,W416W,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G12372A,ND5,L12L,,30.8,14.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G12372A,ND5,L12L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G12406A,ND5,V24I,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G12561A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G12630A,ND5,W98W,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G12630T,,,,20 ,77 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G12651C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G13135A,ND5,A267T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G13145A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G13368A,ND5,G344G,,15.4,4.8,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G13368T,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G13590A,ND5,L418L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G13708A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G13708A,ND5,A458T,Homoplasmatico,2,-,"J, M, X, F, L",M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G13708A,ND5,A458T,Homoplasmico,1,-,"M,H",M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G13708A,ND5,A458T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G13759A,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G13759A,ND5,R5G,Homoplasmatico,1,-,"F, H, V",M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G13759A,ND5,R5G,Homoplasmico,1,-,"F,H,V",M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G13759A,ND5,A475T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G13780A,ND5,I482V,Homoplasmico,1,-,"I,N",M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G13780A,ND5,L482V,Homoplasmatico,2,-,"I, N",M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G13813A,ND5,V493I,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G13889A,ND5,C518Y,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G13928C,,,,5 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G13928C,ND5,S531T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G13958C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G14040A,ND5,Q568Q,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G14364A,ND6,L104L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G143A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G14569A,ND6,S35S,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G14905A,CYTB,M53M,,15.4,5.4,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G15043A,,,,23 ,45 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G15043A,CYTB,G99G,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G15106A,CYTB,L120L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G15148A,CYTB,P134P,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G15172A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G15217A,CYTB,G157G,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G15301A,,,,13 ,36 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G15301A,CYTB,L185L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G15314A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G15323A,CYTB,A193T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G15346A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G15431A,CYTB,A229T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G15497A,CYTB,G251S,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G15765A,CYTB,G340E,Heteroplasmico,"0,135","1,05",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G15883A,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G15884A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G15928A,TT,-,,15.4,4.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G16042A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G16129A,D-LOOP,,,,,,CAI et al.,2011,China,,,,,,,,,,
+G16129A,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+G16129A,,,,6 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G16129A,D-LOOP,--,,15.4,13.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G16129C,D-LOOP,-,,15.4,0.6,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G16145A,D-LOOP,,,,,,CAI et al.,2011,China,,,,,,,,,,
+G16145A,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G16145A,D-LOOP, ,Heteroplasmico,"0,325","2,72",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G16153A,D-LOOP,-,,7.7,0.9,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G16319A,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+G16319A,,,,7 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G16390A,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G16390A,D-LOOP, ,Heteroplasmico,"0,245",1425,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G16470A,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G16471A,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G16473A,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G16485A,D-LOOP,-,,2,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+G16496A,D-LOOP,-,,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+G16518C,,,,12 ,36 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G16526A,D-LOOP,,,7.7,1.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G1888A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G1888A,RNR2,-,,15.4,5.5,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G1888A,RNR2, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G1913A,RNR2,-,Homoplasmatico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+G207A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G207A,D-LOOP, ,Heteroplasmico,99035,"98,29",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G2120A,16S rRNA, ,Heteroplasmico,6875,25975,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G3010A,,,,13 ,18 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G3010A,RNR2,-,,7.7,15.2,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G3010A,RNR2, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G316C,,,,6 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G3226T,RNR2,-,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G3316A,ND1,A4T,Heteroplasmico,1,-,"D, R, M",M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G3392C,,,,22 ,27 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G3591A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G3666A,,,,2 ,0 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G3834A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G3849A,ND1,L181L,,7.7,0.3,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G3882A,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G4048A,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G4048A,ND1,D248N,Homoplasmatico,2,-,M7b,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G4092A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G4219A,ND1,V305I,Homoplasmatico,1,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G4541A,ND2,S24S,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G4820A,ND2,E117E,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G4853A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G4991A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G4991A,ND2,Q174Q,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G499A,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G5046A,ND2,V193I,Homoplasmatico,1,-,W,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G5046A,ND2,V193I,Homoplasmico,1,-,W,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G5054A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G5112A,ND2,Ala - Thr,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+G513A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G513A,D-LOOP,-,,7.7,1.5,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G513C,D-LOOP,-,,15.4,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G513GCA,D-LOOP,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G5147A,ND2,T226T,,15.4,4.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G5227C,ND2,G253A,Homoplasmatico,1,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G5227C,ND2,G253A,Homoplasmico,1,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+G5231A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G5237A,ND2,P256P,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G5417A,ND2,Q316Q,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G5522A,TW,-,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+G5585A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G564C,D-LOOP,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G5746A,MT-OLR,-,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G5773A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G5783A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G5809A,TC,-,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+G5913A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G6023A,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G6023A,CO1,E40E,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G6026A,CO1,L41L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G6179A,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G6267A,CO1,A122T,,7.7,0.2,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G6305A,,,,1 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G6383A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G6384A,CO1,Ala - Thr,Heteroplasmico,-,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+G66A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G6768A,CO1,Ala - Thr,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+G6917A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G6958C,,,,30 ,0.64 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G6962A,,,,6 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G6962A,CO1,L353L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G7078C,,,,8 ,0.64 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G709A,RNR1,-,,23.1,12.8,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G709A,12S rRNA, ,Heteroplasmico,"0,245",1275,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G709A,RNR1, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G7293A,CO1,Ala - Thr,Homoplasmatico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+G7598A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G7600A,,,,1 ,0 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G7852A,CO2,E89E,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G7897A,CO2,W104W,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G7912A,CO2,E109E,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G8020A,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G8020A,CO2,P145P,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G8251A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G8269A,CO2,STOP>STOP,,7.7,1.4,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G8269A,CO2,Term228Term,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G8269C,CO2,STOP>Y,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G8584A,ATP6,A20T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G8697A,ATP6,M57M,,15.4,4.5,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G877A,12S rRNA, ,Heteroplasmico,"0,715",1225,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G8989A,ATP6,A155T,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G8994A,ATP6,L156L,,7.7,2.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G9053A,,,,4 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G9053A,ATP6,S176N,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G9123A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G9123A,ATP6,L199L,,7.7,5.4,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G930A,RNR1,-,,7.7,2.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G9380A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G9380A,CO3,W58W,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+G9412A,CO3,Gly - Asp,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+G9412C,,,, ,55 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G9477A,CO3,V91I,,15.4,4.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G94A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G9548A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G9548C,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G9575A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G9612C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G9774A,CO3,Asp - Asn,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+G9804A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G988A,RNR1,-,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+G9907C,,,,6 ,0.68 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G9966A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+G9966A,CO3,V254I,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+GCA513G,D-LOOP,-,,15.4,1.5,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T10031C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T10034C,TG, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T1005C,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T1005C,RNR1, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T10253C,ND3,F65F,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T10256C,ND3,D66D,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T10294C,ND3,L79P,Homoplasmatico,1,-,H,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+T10294C,ND3,L79P,Homoplasmico,1,-,H,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+T10304C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T10361C,ND3,Ser-Ser,,,,,SULTUNA et al.,2012,Bangladesh,,,,,,,,,,
+T10462C,TR, ,Heteroplasmico,45395,1535,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T10463C,TR,-,,15.4,4.6,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T10535C,,,,5 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T10535C,ND4L,Y22Y,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T10609C,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T10609C,ND4L,M47T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T10674T/C,ND4L,,Heteroplasmico,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T10873C,ND4,P38P,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T10909C,ND4,F50F,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T1107C,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T1119C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T11299C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T11353C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T11353C,ND4,A198A,,7.7,0.3,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T11482C,ND4,Y241Y,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T11722C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T11803C,ND4,L348L,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T11809C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T11809C,ND4,T350T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T11809C,ND4,T350T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T11875C,ND4,T372T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T1193C,RNR1, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T11944C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T12091C,,,,1 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T12091C,ND4,I444I,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T12271A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T12338A,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T12338C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T12408C,ND5,V24V,Heteroplasmico,"0,265","1,69",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T12455G,ND5,V40G,Homoplasmatico,2,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+T12455G,ND5,V40G,Homoplasmico,2,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+T12468C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T125C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T12631C,ND5,S99A,Homoplasmatico,1,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+T12631C,ND5,S99A,Homoplasmico,2,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+T12732C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T12732C,ND5,V132V,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T127C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T12811C,,,,2 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T12811C,ND5,Y159H,Homoplasmatico,1,-,"M, H",M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+T12811C,ND5,Y159H,Homoplasmico,1,-,-,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+T12879C,ND5,G181G,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T12892C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T12892C,ND5,L186L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T13020C,ND5,G228G,,15.4,1.2,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T13191C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T13488C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T13617C,ND5,I427I,,15.4,3.9,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T13734C,ND5,F466F,,15.4,0.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T13812C,ND5,A492A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T14000A,ND5,L555Q,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T14178C,ND6,I166V,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T14218C,ND6,L152L,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T14318C,ND6,N119S,Homoplasmatico,1,-,C,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+T14318C,ND6,N119S,Homoplasmico,1,-,C,M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+T14598C,ND6,I26V,Missense,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T146C,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+T146C,,,,2 ,18 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T146C,D-LOOP,-,,15.4,21.7,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T146C,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T14727C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T14783C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T14783C,CYTB,L13L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T14819TTCTATA,CYTB,S25,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T14971C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T14979C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T14979C,CYTB,I78T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T1499C,RNR1,-,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+T15067C,,,,1 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T15071C,,,,1 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T15115C,CYTB,T123T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T1520C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T1520C,RNR1, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T152C,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+T152C,,,,12 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T152C,D-LOOP,-,,23.1,27.6,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T152C,D-LOOP, ,Heteroplasmico,"0,605",1085,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T152C,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T152C,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T15388C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T15412C,CYTB,P222P,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T15416C,CYTB,Tyr - His,Heteroplasmico,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
+T1541C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T15461C,CYTB,L239L,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T15465C,CYTB,M240T,Heteroplasmico,"0,63",1225,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T15514C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T15565C,CYTB,Y273Y,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T15670C,CYTB,H308H,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T15784C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T15784C,CYTB,P346P,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T15787C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T15850C,CYTB,T368T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T15862C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T15900C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T15916C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16086C,D-LOOP, ,Heteroplasmico,"98,79","98,66",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16092A,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16092C,,,,1 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16092C,D-LOOP,,,7.7,1.4,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T16093C,,,,1 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16093C,D-LOOP,--,,7.7,6.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T16093C,D-LOOP, ,Heteroplasmico,"97,81",75425,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16093C,D-LOOP,,,,,,SULTUNA et al.,2012,Bangladesh,,,,,,,,,,
+T16126C,D-LOOP,-,,15.4,11.9,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T16136C,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+T16136C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16140C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16140C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16154C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16172C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16189C,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+T16189C,D-LOOP,-,,15.4,28.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T16189C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16189C,D-LOOP, ,Heteroplasmico,95565,97565,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16217C,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+T16217C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16224C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16249C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16297C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16298C,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+T16298C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16304C,,,,7 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16304C,D-LOOP,-,,15.4,6.4,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T16304C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16304C,D-LOOP, ,Heteroplasmico,99175,98195,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16311C,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16311C,D-LOOP,-,,23.1,22.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T16311C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16325C,D-LOOP,,,,,,CAI et al.,2011,China,,,,,,,,,,
+T16325C,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+T16357C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16359C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16359C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16362C,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+T16362C,,,,13 ,14 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16362C,D-LOOP,-,,23.1,16.9,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T16362C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16381C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16381C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T16445C,D-LOOP,-,,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T16519C,D-LOOP,-,Polimorfismo,-,-,-,Cruz et al.,2020,México ,,,,,,,,,,
+T16519C,,,,19 ,36 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T16519C,D-LOOP,-,,53.8,65.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T16519C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T1824C,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T1824C,RNR2, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T195A,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T195C,,,,6 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T195C,D-LOOP,-,,7.7,22.3,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T195C,D-LOOP, ,Heteroplasmico,"81,71","66,71",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T195C,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T199C,D-LOOP,,,,,,CAI et al.,2011,China,,,,,,,,,,
+T199C,,,,4 ,9 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T199C,D-LOOP, ,Heteroplasmico,99605,"98,96",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T204C,D-LOOP, ,Heteroplasmico,"0,99",2505,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T2115C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T217C,D-LOOP,-,,15.4,0.9,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T217C,D-LOOP, ,Heteroplasmico,"99,31",95015,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T2226C,RNR2, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T310C,D-LOOP,-,,100,6.3,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T310TC,D-LOOP,-,,100,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T3197C,RNR2,-,,15.4,4.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T319C,D-LOOP (OHR), ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T321C,D-LOOP,-,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T3229A,RNR2,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T3229TA,RNR2,-,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T3264C,TL1, ,Heteroplasmico,"0,21","2,26",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T3308C,ND1,M1T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T3335C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T3336C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T3345C,,,,8 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T3552C,ND1,A82A,Heteroplasmico,"0,38","1,09",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T3618C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T3644C,,,,1 ,0 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T4216C,ND1,Y304H,Homoplasmatico,8,4,"J, T",M. M. JAHANI ET AL,2019,Irã,,,,,,,,,,
+T4216C,ND1,Y304H,,15.4,9.9,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T4232C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T4248C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T4336C,TQ,-,,7.7,1.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T4371C,TQ, ,Heteroplasmico,84265,29675,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T4448C,TM, ,Heteroplasmico,"0,96","3,23",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T4553C,ND2,F28F,,7.7,0.2,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T460C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T4703C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T4736C,ND2,T89T,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T4768C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T4838C,ND2,P123P,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T4856C,ND2,L129L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T489C,,,,6 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T489C,D-LOOP, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T4947C,ND2,L160L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T5004C,ND2,L179L,,7.7,0.8,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T5048C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T5074C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T5090C,ND2,I207I,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T5093C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T5108C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T5108C,ND2,T213T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T5201C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T5291C,ND2,N274N,Heteroplasmico,1655,7165,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T5426C,ND2,H319H,,15.4,0.9,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T5442C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T5442C,ND2,F325L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T5580C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T5618C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T5628C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T5892A,NC,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T593C,TF, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T5964C,CO1,L21L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T596C,TF, ,Heteroplasmico,"0,455",1565,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T6007C,,,,4 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6152C,CO1,V83V,,15.4,0.8,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T6185C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6216C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6216C,CO1,L105L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T6221C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6253C,CO1,M117T,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T6351C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6392C,,,,12 ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6392C,CO1,N163N,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T63C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6413C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6413C,CO1,N170N,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T6497C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6524C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T654C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6635C,CO1,Y244Y,Silent,2,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T6671C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6680C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6707C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6776C,CO1,H291H,,7.7,2.0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T6782C,CO1,F293F,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T681C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T6827C,CO1,A308A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T7270C,CO1,V456A,Heteroplasmico,"0,44",2125,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T7440A,CO1,S513T,Missense,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T7581C,TD, ,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T7759C,CO2,A58A,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T7861C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T7861C,CO2,D92D,Heteroplasmico,"0,625",1015,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T8200C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T8200C,CO2,S205S,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T8265C,CO2,L227P,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T8267C,CO2,STOP>Q,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T8277TCTACCCCCC,NC,-,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T8426C,ATP8,F21L,Missense,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T8473C,ATP8,P36P,,7.7,1.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T8473C,ATP8,P36P,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T8603C,ATP6,F26S,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T8639C,ATP6,I38T,Missense,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T8749C,ATP6,L75L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T879C,12S rRNA, ,Heteroplasmico,"0,345","9,12",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T8802C,ATP6,F92F,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T8821C,ATP6,S99P,,7.7,<0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T8837C,ATP6,M104T,Missense,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T8867C,ATP6,I114T,Missense,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T9018C,ATP6,I164I,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T9084C,ATP6,L186L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T9090C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T9141C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T9443C,,,,5 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T9454C,CO3,M83T,Heteroplasmico,89635,"1,09",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T9482C,CO3,P92P,Silent,1,,,TIPIRISETTI et al.,2013,South Indian,,,,,,,,,,
+T9484C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T9540C,,,,4 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T9540C,CO3,L112L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T9824A,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T9824C,,,,4 ,14 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T9824C,CO3,L206L,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+T9845C,,,,1 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T9845C,CO3,T213T,,7.7,0.1,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+T9856C,,,, ,5 ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T9950C,,,,2 , ,,Li et al.,2016," Guangzhou, China",,,,,,,,,,
+T9950C,CO3,V248V,Homoplasmatico,-,,,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+TAGC8267T,CO2,STOP,,7.7,0,,McGeehan et al. ,2017,Reino Unido,,,,,,,,,,
+,12S rRNA, ,Heteroplasmico,"0,045","3,23",,Omasanggar et al.,2020,Malásia,,,,,,,,,,
+,,,,,,,SHEN et al.,2011,"Wenzhou, China",,,,,,,,,,
+,,,,,,,TSENG et al.,2011,"Taipei, Taiwan",,,,,,,,,,
